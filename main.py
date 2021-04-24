@@ -1,5 +1,6 @@
 import requests, weather, json, thingspeak
 
+
 '''
     This is the main module. This fetches the data from things speak and openweathermap and sends the sms using fast2sms.
 '''
